@@ -178,6 +178,7 @@ OpenCode is also available as a **[Desktop App (Beta)](https://opencode.ai/downl
 | Plugin | Description |
 |:---|:---|
 | [opencode-conductor](https://github.com/derekbar90/opencode-conductor) | Protocol-driven Context → Spec → Plan → Implement lifecycle |
+| [opencode-multi-llm](https://github.com/beastlabai/multi-llm-plugin) | Parallel plan, code, and commit reviews across 19 coding CLIs, with validated findings, task generation, implementation, and automated revision. |
 | [opencode-background-agents](https://github.com/kdcokenny/opencode-background-agents) | Claude Code-style background agents with async delegation |
 | [opencode-workspace](https://github.com/kdcokenny/opencode-workspace) | Multi-agent orchestration harness — 16 components, one install |
 | [@plannotator/opencode](https://github.com/backnotprop/plannotator/tree/main/apps/opencode-plugin) | Interactive plan review with visual annotation |
